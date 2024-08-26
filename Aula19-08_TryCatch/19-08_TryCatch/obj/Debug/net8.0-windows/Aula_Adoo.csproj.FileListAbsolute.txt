@@ -1,0 +1,16 @@
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\bin\Debug\net8.0-windows\Aula_Adoo.exe
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\bin\Debug\net8.0-windows\Aula_Adoo.deps.json
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\bin\Debug\net8.0-windows\Aula_Adoo.runtimeconfig.json
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\bin\Debug\net8.0-windows\Aula_Adoo.dll
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\bin\Debug\net8.0-windows\Aula_Adoo.pdb
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.Form1.resources
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.csproj.GenerateResource.cache
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.AssemblyInfoInputs.cache
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.AssemblyInfo.cs
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.csproj.CoreCompileInputs.cache
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.dll
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\refint\Aula_Adoo.dll
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.pdb
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\Aula_Adoo.genruntimeconfig.cache
+C:\Users\viniciushorta\Desktop\Aula_Adoo\Aula_Adoo\obj\Debug\net8.0-windows\ref\Aula_Adoo.dll

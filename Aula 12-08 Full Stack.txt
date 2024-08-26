@@ -1,0 +1,31 @@
+Sprint 1
+Criar classes
+Criação do BD
+
+Sprint 2
+Cad. cliente
+Consulta cliente
+
+Sprint 3
+Cad. Produtos
+Consulta produtos
+
+-----//-----
+
+1º dia
+Planning (1h reunião)
+
+2º dia ao 13º
+Daily (15m de reunião, oque fez, oque está impedindo de continuar)
+
+14º
+Review
+
+15º
+FeedBack entre a equipe
+
+Sprint 1 concluída, Repetir processo para a sprint 2 e 3
+
+----------//------
+
+Ferramenta: portal.azure.com/#home
