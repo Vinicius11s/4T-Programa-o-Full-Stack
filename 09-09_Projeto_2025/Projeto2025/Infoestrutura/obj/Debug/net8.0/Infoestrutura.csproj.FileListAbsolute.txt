@@ -1,0 +1,16 @@
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\bin\Debug\net8.0\Infoestrutura.deps.json
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\bin\Debug\net8.0\Infoestrutura.dll
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\bin\Debug\net8.0\Infoestrutura.pdb
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\bin\Debug\net8.0\Entidades.dll
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\bin\Debug\net8.0\Entidades.pdb
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.csproj.AssemblyReference.cache
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.AssemblyInfoInputs.cache
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.AssemblyInfo.cs
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.csproj.CoreCompileInputs.cache
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.sourcelink.json
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.csproj.CopyComplete
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.dll
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\refint\Infoestrutura.dll
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\Infoestrutura.pdb
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\09-09_Projeto_2025\Projeto2025\Infoestrutura\obj\Debug\net8.0\ref\Infoestrutura.dll

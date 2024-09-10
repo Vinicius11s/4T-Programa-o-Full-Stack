@@ -85,29 +85,62 @@ namespace Entidades
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = con;
 
-            cmd.CommandText = "select * from clientes " +
-                              "where id = @nome)";
-
-            cmd.Parameters.Add("@id", Syst)
-
-            SqlDataReader = cmd.ExecuteReader();
+            cmd.CommandText = "select * from clientes where id = @id";
+            cmd.Parameters.Add("@id", System.Data.SqlDbType.Int).Value = id;
+            //executar
+            SqlDataReader dr = cmd.ExecuteReader();
             if (dr.Read())
             {
                 //encontrou dados
-
                 obj = new Clientes();
-                obj.id = int.Parse(dr["id"].To.String());
+                obj.id = int.Parse(dr["id"].ToString());
                 obj.nome = dr["nome"].ToString();
-                obj.datanascimento = DateTime.Parse(dr["datanascimento"].To.String());
-
-
-
-
+                obj.datanascimento = DateTime.Parse(dr["datanascimento"].ToString());
             }
-
             dr.Close();
-            con.Close();
+
+            con.Close(); //fechar conexao
+
             return obj;
+        }
+
+        public List<Clientes> consultar(String nome)
+        {
+
+            List<Clientes> lista = new List<Clientes>();
+
+            SqlConnection con = new SqlConnection(conexao);
+            con.Open(); //abrir conexao
+
+            //comando
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = con;
+
+            cmd.CommandText = "select * from clientes where nome" +
+                " like @nome order by nome";
+            cmd.Parameters.Add("@nome", System.Data.SqlDbType.VarChar).Value =
+                nome + "%";
+            //executar
+
+
+            SqlDataReader dr = cmd.ExecuteReader();
+            while (dr.Read())
+            {
+                //encontrou dados
+                Clientes obj = new Clientes();
+                obj.id = int.Parse(dr["id"].ToString());
+                obj.nome = dr["nome"].ToString();
+                obj.datanascimento = DateTime.Parse(dr["datanascimento"].ToString());
+                lista.Add(obj);
+            }
+            dr.Close();
+
+            con.Close(); //fechar conexao
+
+            return lista;
+
+
+
         }
     }
 }

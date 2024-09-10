@@ -11,7 +11,6 @@ namespace _26_08_ProjetoAdoo
         {
             InitializeComponent();
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             gbdados.Enabled = false;
@@ -23,7 +22,6 @@ namespace _26_08_ProjetoAdoo
             btnalterar.Enabled = false;
 
         }
-
         private void btnnovo_Click(object sender, EventArgs e)
         {
             gbdados.Enabled = true;
@@ -37,7 +35,6 @@ namespace _26_08_ProjetoAdoo
             txtnome.Focus();
 
         }
-
         void limpar()
         {
             txtid.Text = "";
@@ -46,7 +43,6 @@ namespace _26_08_ProjetoAdoo
 
         private void btnalterar_Click(object sender, EventArgs e)
         {
-
             if (txtid.Text != "")
             {
                 gbdados.Enabled = false;
@@ -63,15 +59,12 @@ namespace _26_08_ProjetoAdoo
                 MessageBox.Show("Localize o cliente");
             }
         }
-
         public void carrega_propriedades()
         {
             cliente.nome = txtnome.Text;
             cliente.id = txtid.Text=="" ? 0 :int.Parse(txtid.Text);//se txtid.text for igual a ""
             cliente.datanascimento = txtdatanascimento.Value;     //ent o cliente.id = 0, senao recebe o o valor do txtid
         }
-
-
         private void btnsalvar_Click(object sender, EventArgs e)
         {
             try
@@ -106,7 +99,6 @@ namespace _26_08_ProjetoAdoo
                 MessageBox.Show("Erro ao Salvar ! " + ex.Message);
             }
         }
-
         private void btnexcluir_Click(object sender, EventArgs e)
         {
             if (txtid.Text != "")
@@ -127,7 +119,6 @@ namespace _26_08_ProjetoAdoo
                 MessageBox.Show("Localize o cliente");
             }
         }
-
         private void btncancelar_Click(object sender, EventArgs e)
         {
             limpar();
@@ -139,7 +130,6 @@ namespace _26_08_ProjetoAdoo
             btnexcluir.Enabled = false;
             btnsalvar.Enabled = false;
         }
-
         private void btnlocalizar_Click(object sender, EventArgs e)
         {
             limpar();

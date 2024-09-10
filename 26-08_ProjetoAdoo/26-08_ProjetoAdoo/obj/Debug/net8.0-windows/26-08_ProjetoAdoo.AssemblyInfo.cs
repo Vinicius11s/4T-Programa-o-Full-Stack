@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("26-08_ProjetoAdoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6088a79747118ef9face699877615135f7494b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("26-08_ProjetoAdoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("26-08_ProjetoAdoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
