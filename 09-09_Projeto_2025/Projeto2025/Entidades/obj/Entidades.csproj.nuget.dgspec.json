@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viniciushorta\\Documents\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\Entidades.csproj": {}
+    "C:\\Documentos Local\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viniciushorta\\Documents\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\Entidades.csproj": {
+    "C:\\Documentos Local\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viniciushorta\\Documents\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Documentos Local\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\viniciushorta\\Documents\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\viniciushorta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viniciushorta\\Documents\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\obj\\",
+        "projectPath": "C:\\Documentos Local\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Documentos Local\\GitHub\\4T-Programacao-Full-Stack\\09-09_Projeto_2025\\Projeto2025\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\viniciushorta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
