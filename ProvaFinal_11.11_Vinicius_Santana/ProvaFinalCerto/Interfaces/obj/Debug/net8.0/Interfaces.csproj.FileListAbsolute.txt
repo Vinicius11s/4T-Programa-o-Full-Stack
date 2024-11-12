@@ -1,0 +1,16 @@
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\bin\Debug\net8.0\Entidades.dll
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\bin\Debug\net8.0\Entidades.pdb
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CopyComplete
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\viniciushorta\Documents\GitHub\4T-Programacao-Full-Stack\ProvaFinal_11.11\ProvaFinalCerto\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
